@@ -78,5 +78,5 @@
 ---
 
 <p align="center">
-<em>“Aprender, construir y compartir: ese es mi camino como desarrollador backend.”</em>
+<em>“Construyo soluciones, aprendo constantemente y aplico buenas prácticas como desarrollador Backend.”</em>
 </p>
