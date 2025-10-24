@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hola, Fredy Rizo</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=700&height=150&lines=Desarrollador%20Backend%20Autodidacta,;Especialista%20en%20Node.js%20y%20MongoDB,;Lenguajes:%20JavaScript,;Backend:%20Node.js%20Express%20Passport.js%20Express-Limit,;Frontend:%20VueJs%20Astro%20Tailwind,;Bases%20de%20Datos:%20MongoDB%20MySQL,;Herramientas:%20Git%20JWT%20Nodemailer%20APIs%20REST,;Metodologias%20Agile/Scrum%20y%20GitFlow%20Buenas%20Practicas">
+<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=700&height=150&lines=Desarrollador%20Backend%20Autodidacta,;Especialista%20en%20Node.js%20y%20MongoDB,;Lenguajes:%20JavaScript,;Backend:%20Node.js%20Express%20Passport.js%20Express-Limit,,;Bases%20de%20Datos:%20MongoDB%20MySQL,;Herramientas:%20Git%20JWT%20Nodemailer%20APIs%20REST,;Metodologias%20Agile/Scrum%20y%20GitFlow%20Buenas%20Practicas">
 </p>
 
 ---
