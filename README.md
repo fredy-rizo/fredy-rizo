@@ -1,82 +1,58 @@
-<h1 align="center"><b>Hola, Fredy Rizo</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Fredy Rizo | Backend Developer</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=700&height=150&lines=Desarrollador%20Backend%20Autodidacta,;Especialista%20en%20Node.js%20y%20MongoDB,;Lenguajes:%20JavaScript,;Backend:%20Node.js%20Express%20Passport.js%20Express-Limit,,;Bases%20de%20Datos:%20MongoDB%20MySQL,;Herramientas:%20Git%20JWT%20Nodemailer%20APIs%20REST,;Metodologias%20Agile/Scrum%20y%20GitFlow%20Buenas%20Practicas">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=36BCF7&size=24&center=true&vCenter=true&width=800&height=100&lines=Especialista+en+Arquitectura+Backend+con+Node.js;Diseño+de+APIs+Scalables+y+Seguras;Manejo+Avanzado+de+Ecosistemas+NoSQL+y+SQL">
 </p>
 
 ---
 
-### **Sobre mí**  <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="250" style="border-radius:10px;">
+### **Perfil Profesional** 🚀
 
-- Autodidacta en desarrollo **Backend** con enfoque en **JavaScript** y **Node.js**  
-- Experiencia construyendo **APIs** y sistemas con **MongoDB**  
-- Especialista en **autenticación** y **envío de correos** (Passport.js y Nodemailer)  
-- Apasionado por aprender nuevas tecnologías y resolver problemas  
-- **Portfolio:** [portafoliofredyrizo.vercel.app](https://portafoliofredyrizo.vercel.app)  
-- Abierto a oportunidades laborales o de práctica profesional 
+Soy un **Desarrollador Backend** enfocado en la construcción de sistemas robustos, escalables y eficientes. Mi experiencia se centra en el ecosistema **JavaScript (Node.js)**, donde diseño arquitecturas de microservicios y APIs RESTful aplicando **Clean Code** y **Patrones de Diseño**.
 
----
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> **Habilidades**
-
-<p align="center">
-
-**Lenguajes & Backend**  
-![MySQL](https://img.shields.io/badge/MySQL-%23007ACC.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-%23F0DB4F.svg?style=for-the-badge&logo=xampp&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) 
-
-
-**Frontend (básico/soporte)**  
-![CSS3](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
-**Cloud & Deployment**  
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Firebase Storage](https://img.shields.io/badge/Firebase%20Storage-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
-![Google Cloud Storage](https://img.shields.io/badge/Google%20Cloud%20Storage-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-**Email & Autenticación**  
-![Nodemailer](https://img.shields.io/badge/Nodemailer-%23007300.svg?style=for-the-badge&logo=nodemailer&logoColor=white)
-![Passport.js](https://img.shields.io/badge/Passport.js-%23000000.svg?style=for-the-badge&logo=passport&logoColor=white)
-
-**Herramientas & Software**  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-**Extras**  
-![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-
-</p>
+- 🛠️ **Enfoque actual:** Optimización de procesos de autenticación (Passport.js/JWT) e integración de servicios automatizados (Nodemailer).
+- ⚙️ **Metodologías:** Trabajo bajo marcos ágiles (**Scrum**) y gestión de versiones avanzada con **GitFlow**.
+- 🌐 **Despliegue:** Experiencia en entornos Cloud (Google Cloud/Firebase) y administración de sistemas basados en Linux.
+- 🎯 **Objetivo:** Contribuir en proyectos desafiantes que requieran soluciones técnicas de alto impacto.
 
 ---
 
-##  **Conacto**
+### **Tech Stack & Tooling** 🛠️
 
-<div align="left">
-<ul>
-<li>
+| Categoría | Tecnologías |
+| :--- | :--- |
+| **Backend & Runtime** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **Bases de Datos** | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **Seguridad & Auth** | ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white) ![Passport.js](https://img.shields.io/badge/-Passport.js-34E27A?style=flat-square&logo=passport&logoColor=black) |
+| **Cloud & Storage** | ![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
+| **Infraestructura** | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/-Git-F05033?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+
+---
+
+### **Highlights & Proyectos** 📁
+
+* **[Sistema de Gestión Deportiva]**: Implementación de roles complejos y persistencia de datos masiva.
+* **[API de Autenticación Segura]**: Integración de Passport.js con limitación de peticiones (Express-Limit) para prevenir ataques de fuerza bruta.
+* **[Microservicio de Notificaciones]**: Automatización de flujos de correo electrónico mediante Nodemailer.
+
+---
+
+### **Contacto & Social** 📬
+
+<p align="left">
+<a href="https://portafoliofredyrizo.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-252a34?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 <a href="https://www.linkedin.com/in/fredyrizo" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-%2300acee.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-</li>
-<li>
 <a href="mailto:rizofredy5@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-</li>
-</ul>
-</div>
+</p>
 
 ---
 
 <p align="center">
-<em>“Construyo soluciones, aprendo constantemente y aplico buenas prácticas como desarrollador Backend.”</em>
+  <i>"La ingeniería de software no se trata solo de escribir código, sino de diseñar soluciones sostenibles."</i>
 </p>
