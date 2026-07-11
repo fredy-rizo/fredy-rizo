@@ -12,7 +12,7 @@ Backend Software Engineer | Node.js • Python • Laravel • Arquitectura de S
 </p>
 
 <p align="center">
-  <a href="https://portafoliofredyrizo.vercel.app">
+  <a href="https://v0-fredy-portafolio.vercel.app/">
     <img src="https://img.shields.io/badge/🌐%20Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/fredyrizo">
