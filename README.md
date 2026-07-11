@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  ¡Hola! Soy Fredy Rizo
+  ¡Hola! Soy <b>Fredy Rizo</b>
 </h1>
 
 <h3 align="center">
@@ -8,18 +8,16 @@ Backend Software Engineer | Node.js • Python • Laravel • Arquitectura de S
 </h3>
 
 <p align="center">
-Desarrollo soluciones backend escalables, APIs robustas y arquitecturas orientadas al rendimiento.
+  Construyo soluciones backend escalables, seguras y de alto rendimiento, enfocadas en crear software mantenible y preparado para crecer.
 </p>
 
 <p align="center">
   <a href="https://portafoliofredyrizo.vercel.app">
-    <img src="https://img.shields.io/badge/🌐_Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
+    <img src="https://img.shields.io/badge/🌐%20Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
-
   <a href="https://www.linkedin.com/in/fredyrizo">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-
   <a href="mailto:rizofredy5@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
@@ -29,62 +27,53 @@ Desarrollo soluciones backend escalables, APIs robustas y arquitecturas orientad
 
 # 👨🏻‍💻 Sobre mí
 
-Soy **Ingeniero de Software** especializado en desarrollo **Backend**, con experiencia construyendo APIs, sistemas distribuidos y soluciones enfocadas en rendimiento, seguridad y escalabilidad.
+Soy **Ingeniero de Software** apasionado por el desarrollo **Backend** y el diseño de arquitecturas robustas.
 
-Me gusta diseñar software pensando en el largo plazo, aplicando principios de arquitectura limpia, buenas prácticas y código mantenible.
+Disfruto resolver problemas complejos mediante soluciones escalables, priorizando la calidad del código, el rendimiento y la seguridad. Me interesa construir software que no solo funcione, sino que sea fácil de mantener, evolucionar y escalar.
 
-Actualmente continúo fortaleciendo mis conocimientos en arquitectura de software, cloud computing y optimización de bases de datos.
+Actualmente continúo fortaleciendo mis conocimientos en arquitectura de software, cloud computing, DevOps y optimización de bases de datos.
 
 ---
 
 # 🚀 Lo que puedo aportar
 
-✅ Desarrollo de APIs REST escalables
-
-✅ Diseño de arquitectura backend
-
-✅ Modelado y optimización de bases de datos
-
-✅ Autenticación y autorización (JWT, Passport)
-
-✅ Integración de servicios externos y APIs
-
-✅ Dockerización de aplicaciones
-
-✅ Optimización de rendimiento
-
-✅ Aplicación de Clean Code y SOLID
-
-✅ Metodologías ágiles (Scrum)
-
-✅ Control de versiones con Git & GitFlow
+- 🚀 Desarrollo de APIs REST escalables
+- 🏛 Diseño de arquitecturas backend
+- 🔒 Implementación de autenticación y autorización (JWT, Passport.js)
+- 🗄 Modelado y optimización de bases de datos SQL y NoSQL
+- ⚡ Optimización de rendimiento y consultas
+- 🐳 Dockerización de aplicaciones
+- 🔌 Integración de APIs y servicios externos
+- 🧹 Aplicación de Clean Code, SOLID y patrones de diseño
+- 👥 Trabajo bajo metodologías ágiles (Scrum)
+- 🌱 Aprendizaje continuo y adaptación a nuevas tecnologías
 
 ---
 
 # 🛠 Stack Tecnológico
 
-### Backend
+### 💻 Lenguajes & Frameworks
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,laravel,php,js" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=js,nodejs,express,python,php,laravel,vue,astro" />
 </p>
 
-### Bases de Datos
+### 🗄️ Bases de Datos
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,firebase" />
 </p>
 
-### DevOps & Cloud
+### ☁️ DevOps & Cloud
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=docker,linux,gcp,git,github" />
 </p>
 
-### Herramientas
+### 🛠 Herramientas
 
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,postman,npm,bash" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=vscode,postman,npm,pnpm,bash" />
 </p>
 
 ---
@@ -94,16 +83,19 @@ Actualmente continúo fortaleciendo mis conocimientos en arquitectura de softwar
 - Arquitectura de Microservicios
 - Docker & Contenedores
 - Cloud Computing
-- Buenas prácticas DevOps
+- DevOps
 - Testing automatizado
+- TypeScript
+- NestJS
 
 ---
 
 # 🌎 Idiomas
 
-🇪🇸 Español — Nativo
-
-🇺🇸 Inglés — Básico (Lectura técnica y documentación)
+| Idioma | Nivel |
+|---------|-------|
+| 🇪🇸 Español | Nativo |
+| 🇺🇸 Inglés | Básico (Lectura de documentación técnica) |
 
 ---
 
@@ -111,7 +103,7 @@ Actualmente continúo fortaleciendo mis conocimientos en arquitectura de softwar
 
 ## 🏀 BasketDesk
 
-Sistema para la gestión de ligas deportivas.
+Plataforma para la gestión integral de ligas deportivas.
 
 ### Características
 
@@ -120,33 +112,35 @@ Sistema para la gestión de ligas deportivas.
 - API REST
 - Autenticación JWT
 - Arquitectura escalable
-- Integración con base de datos
+- Integración con bases de datos
+- Backend modular y mantenible
 
 ---
 
 ## 🔐 Sistema de Autenticación
 
-Backend enfocado en seguridad.
+Módulo backend enfocado en seguridad y control de acceso.
 
-Incluye:
+### Incluye
 
 - JWT
 - Passport.js
 - Rate Limiting
 - Hash de contraseñas
-- Control de permisos
+- Roles y permisos
 - Refresh Tokens
 - Protección de rutas
+- Validación de datos
 
 ---
 
-# 💼 Mi filosofía
+# 💼 Filosofía de trabajo
 
-> *"El código funciona hoy. La arquitectura permite que siga funcionando dentro de cinco años."*
+> *"El software de calidad no solo resuelve problemas actuales; está diseñado para adaptarse a los desafíos del futuro."*
 
 ---
 
-# 📈 GitHub
+# 📈 Estadísticas de GitHub
 
 <p align="center">
 
@@ -157,29 +151,41 @@ Incluye:
 </p>
 
 <p align="center">
+
 <img src="https://streak-stats.demolab.com?user=FredyRizo&theme=tokyonight&hide_border=true"/>
+
 </p>
+
+---
+
+# 🎯 Objetivo Profesional
+
+Seguir creciendo como **Backend Software Engineer**, participando en proyectos de alto impacto donde pueda aportar soluciones escalables, aprender nuevas tecnologías y contribuir al desarrollo de productos de calidad.
 
 ---
 
 # 📫 Contacto
 
-📧 **Email**
+<p align="center">
 
-**rizofredy5@gmail.com**
+<a href="mailto:rizofredy5@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-rizofredy5%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
-🌐 **Portafolio**
+<a href="https://www.linkedin.com/in/fredyrizo">
+<img src="https://img.shields.io/badge/LinkedIn-Fredy_Rizo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
-https://portafoliofredyrizo.vercel.app
+<a href="https://portafoliofredyrizo.vercel.app">
+<img src="https://img.shields.io/badge/Portafolio-Visitar-000000?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
 
-💼 **LinkedIn**
-
-https://www.linkedin.com/in/fredyrizo
+</p>
 
 ---
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=FredyRizo&style=for-the-badge">
+<img src="https://komarev.com/ghpvc/?username=FredyRizo&style=for-the-badge&color=blue"/>
 
 </p>
