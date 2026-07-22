@@ -176,7 +176,7 @@ Seguir creciendo como **Backend Software Engineer**, participando en proyectos d
 <img src="https://img.shields.io/badge/LinkedIn-Fredy_Rizo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="https://portafoliofredyrizo.vercel.app">
+<a href="https://v0-fredy-portafolio.vercel.app/">
 <img src="https://img.shields.io/badge/Portafolio-Visitar-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 
