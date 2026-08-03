@@ -138,25 +138,6 @@ Módulo backend enfocado en seguridad y control de acceso.
 
 > *"El software de calidad no solo resuelve problemas actuales; está diseñado para adaptarse a los desafíos del futuro."*
 
----
-
-# 📈 Estadísticas de GitHub
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=FredyRizo&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FredyRizo&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=FredyRizo&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 
 # 🎯 Objetivo Profesional
 
