@@ -106,65 +106,17 @@ Actualmente continúo fortaleciendo mis conocimientos en **arquitectura de softw
 | 🇪🇸 Español | Nativo |
 | 🇺🇸 Inglés | Básico (Lectura de documentación técnica) |
 
-# ⭐ Proyectos Destacados
+## ⭐ Proyectos destacados
 
-<table>
-<tr>
-<td width="33%">
+<div align="center">
 
-### 🚚 Despacho API
+| 🚚 Despacho API | 🛒 Ecommerce Delivery API | 🎨 Ecommerce Delivery Frontend |
+|:---------------:|:-------------------------:|:------------------------------:|
+| Backend para la gestión integral de despachos con autenticación, control de usuarios, seguimiento de envíos y arquitectura escalable. <br><br> ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)<br><br>📚 **Documentación**<br>https://despacho.mintlify.site/introduction | API REST para una plataforma Ecommerce con administración de productos, categorías, pedidos, usuarios, autenticación y pagos. <br><br> ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)<br><br>📚 **Documentación**<br>https://mintlify.wiki/fredy-rizo/ecommerce-delivery/introduction | Frontend moderno para la plataforma Ecommerce Delivery, enfocado en rendimiento, experiencia de usuario, consumo de APIs REST y diseño responsive. <br><br> ![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=flat-square&logo=vuedotjs&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square)<br><br>📚 **Documentación**<br>https://mintlify.wiki/fredy-rizo/ecommerce-delivery-frontend |
 
-Backend para la gestión integral de despachos, diseñado bajo una arquitectura escalable y mantenible. Incluye autenticación, control de usuarios, gestión de envíos, seguimiento de estados y documentación completa de la API.
-
-**Tecnologías**
-- Node.js
-- Express
-- MySQL
-- JWT
-
-🔗 **Documentación:**  
-https://despacho.mintlify.site/introduction
-
-</td>
-
-<td width="33%">
-
-### 🛒 Ecommerce Delivery API
-
-API REST para una plataforma de comercio electrónico con funcionalidades para administración de productos, categorías, pedidos, autenticación, pagos y gestión de usuarios.
-
-**Tecnologías**
-- Node.js
-- Express
-- MongoDB
-- JWT
-
-🔗 **Documentación:**  
-https://mintlify.wiki/fredy-rizo/ecommerce-delivery/introduction
-
-</td>
-
-<td width="33%">
-
-### 🎨 Ecommerce Delivery Frontend
-
-Frontend moderno para la plataforma Ecommerce Delivery, con enfoque en rendimiento, experiencia de usuario y diseño responsive.
-
-**Tecnologías**
-- Vue.js
-- JavaScript
-- CSS
-- REST API
-
-🔗 **Documentación:**  
-https://mintlify.wiki/fredy-rizo/ecommerce-delivery-frontend
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
-
 # 💼 Filosofía de trabajo
 
 > *"El software de calidad no solo resuelve problemas actuales; está diseñado para adaptarse a los desafíos del futuro."*
