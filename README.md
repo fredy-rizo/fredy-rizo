@@ -85,19 +85,6 @@ Actualmente continúo fortaleciendo mis conocimientos en **arquitectura de softw
 <img src="https://skillicons.dev/icons?i=vscode,postman,npm,pnpm,bash" />
 </p>
 
----
-
-# 📚 Actualmente aprendiendo
-
-- Arquitectura de Microservicios
-- Docker & Contenedores
-- Cloud Computing
-- DevOps
-- Testing automatizado
-- TypeScript
-- NestJS
-
----
 
 # 🌎 Idiomas
 
