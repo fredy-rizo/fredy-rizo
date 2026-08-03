@@ -97,40 +97,62 @@ Actualmente continúo fortaleciendo mis conocimientos en arquitectura de softwar
 | 🇪🇸 Español | Nativo |
 | 🇺🇸 Inglés | Básico (Lectura de documentación técnica) |
 
----
-
 # ⭐ Proyectos Destacados
 
-## 🏀 BasketDesk
+<table>
+<tr>
+<td width="33%">
 
-Plataforma para la gestión integral de ligas deportivas.
+### 🚚 Despacho API
 
-### Características
+Backend para la gestión integral de despachos, diseñado bajo una arquitectura escalable y mantenible. Incluye autenticación, control de usuarios, gestión de envíos, seguimiento de estados y documentación completa de la API.
 
-- Gestión de usuarios y roles
-- Estadísticas en tiempo real
-- API REST
-- Autenticación JWT
-- Arquitectura escalable
-- Integración con bases de datos
-- Backend modular y mantenible
-
----
-
-## 🔐 Sistema de Autenticación
-
-Módulo backend enfocado en seguridad y control de acceso.
-
-### Incluye
-
+**Tecnologías**
+- Node.js
+- Express
+- MongoDB
 - JWT
-- Passport.js
-- Rate Limiting
-- Hash de contraseñas
-- Roles y permisos
-- Refresh Tokens
-- Protección de rutas
-- Validación de datos
+
+🔗 **Documentación:**  
+https://despacho.mintlify.site/introduction
+
+</td>
+
+<td width="33%">
+
+### 🛒 Ecommerce Delivery API
+
+API REST para una plataforma de comercio electrónico con funcionalidades para administración de productos, categorías, pedidos, autenticación, pagos y gestión de usuarios.
+
+**Tecnologías**
+- Node.js
+- Express
+- MongoDB
+- JWT
+
+🔗 **Documentación:**  
+https://mintlify.wiki/fredy-rizo/ecommerce-delivery/introduction
+
+</td>
+
+<td width="33%">
+
+### 🎨 Ecommerce Delivery Frontend
+
+Frontend moderno para la plataforma Ecommerce Delivery, con enfoque en rendimiento, experiencia de usuario y diseño responsive.
+
+**Tecnologías**
+- Vue.js
+- JavaScript
+- CSS
+- REST API
+
+🔗 **Documentación:**  
+https://mintlify.wiki/fredy-rizo/ecommerce-delivery-frontend
+
+</td>
+</tr>
+</table>
 
 ---
 
