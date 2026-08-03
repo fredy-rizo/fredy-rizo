@@ -110,7 +110,7 @@ Backend para la gestión integral de despachos, diseñado bajo una arquitectura 
 **Tecnologías**
 - Node.js
 - Express
-- MongoDB
+- MySQL
 - JWT
 
 🔗 **Documentación:**  
